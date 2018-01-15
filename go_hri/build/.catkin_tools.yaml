@@ -1,0 +1,6 @@
+devel_space: /home/hri/go_hri/devel
+install: false
+install_space: /home/hri/go_hri/install
+profile: default
+source_space: /home/hri/go_hri/src
+workspace: /home/hri/go_hri

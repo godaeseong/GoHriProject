@@ -1,0 +1,1 @@
+/home/hri/go_hri/devel/.private/catkin_tools_prebuild/env.sh

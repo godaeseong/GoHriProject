@@ -1,0 +1,8 @@
+Symlinking /home/hri/go_hri/devel/./setup.bash
+Symlinking /home/hri/go_hri/devel/./env.sh
+Symlinking /home/hri/go_hri/devel/./setup.sh
+Symlinking /home/hri/go_hri/devel/./setup.zsh
+Symlinking /home/hri/go_hri/devel/./_setup_util.py
+Symlinking /home/hri/go_hri/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/hri/go_hri/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/hri/go_hri/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake

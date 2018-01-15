@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/speech_recognizer_py
+
+Name: speech_recognizer_py
+Description: Description of speech_recognizer_py
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/speech_recognizer_py/lib 
+Requires: 

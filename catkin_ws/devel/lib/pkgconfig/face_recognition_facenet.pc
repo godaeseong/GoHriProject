@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/face_recognition_facenet/lib/pkgconfig/face_recognition_facenet.pc

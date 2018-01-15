@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/calibration_common
+
+Name: calibration_common
+Description: Description of calibration_common
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/src/calibration_toolkit/calibration_common/include -I/usr/include/eigen3
+Libs: -L/home/hri/catkin_ws/devel/.private/calibration_common/lib 
+Requires: cmake_modules image_geometry

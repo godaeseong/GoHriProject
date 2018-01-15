@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/face_recognition_facenet
+
+Name: face_recognition_facenet
+Description: Description of face_recognition_facenet
+Version: 0.0.0
+Cflags: -I/home/hri/catkin_ws/devel/.private/face_recognition_facenet/include
+Libs: -L/home/hri/catkin_ws/devel/.private/face_recognition_facenet/lib 
+Requires: 

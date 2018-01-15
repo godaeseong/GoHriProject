@@ -1,0 +1,4 @@
+examples_social_robots/dummy_robot1
+/home/hri/catkin_ws/devel/.private/dummy_robot1/lib/pkgconfig/dummy_robot1.pc /home/hri/catkin_ws/devel/lib/pkgconfig/dummy_robot1.pc
+/home/hri/catkin_ws/devel/.private/dummy_robot1/share/dummy_robot1/cmake/dummy_robot1Config.cmake /home/hri/catkin_ws/devel/share/dummy_robot1/cmake/dummy_robot1Config.cmake
+/home/hri/catkin_ws/devel/.private/dummy_robot1/share/dummy_robot1/cmake/dummy_robot1Config-version.cmake /home/hri/catkin_ws/devel/share/dummy_robot1/cmake/dummy_robot1Config-version.cmake

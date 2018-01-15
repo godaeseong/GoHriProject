@@ -1,0 +1,179 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d56b6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d56b6.dir/build.make CMakeFiles/cmTC_d56b6.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d56b6.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_d56b6.dir/CheckSymbolExists.c.o   -c /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_d56b6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d56b6.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_d56b6.dir/CheckSymbolExists.c.o  -o cmTC_d56b6 -rdynamic 
+CMakeFiles/cmTC_d56b6.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d56b6.dir/build.make:97: recipe for target 'cmTC_d56b6' failed
+make[1]: *** [cmTC_d56b6] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d56b6/fast' failed
+make: *** [cmTC_d56b6/fast] Error 2
+
+File /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bb561/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bb561.dir/build.make CMakeFiles/cmTC_bb561.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bb561.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_bb561.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_bb561
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bb561.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_bb561.dir/CheckFunctionExists.c.o  -o cmTC_bb561 -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_bb561.dir/build.make:97: recipe for target 'cmTC_bb561' failed
+make[1]: *** [cmTC_bb561] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_bb561/fast' failed
+make: *** [cmTC_bb561/fast] Error 2
+
+
+Determining if the CL_VERSION_2_0 exist failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f12b3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f12b3.dir/build.make CMakeFiles/cmTC_f12b3.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f12b3.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++     -DBT_USE_DOUBLE_PRECISION -Wall -Wuninitialized -Winit-self -Wunused-function -Wunused-label -Wunused-variable -Wunused-but-set-variable -Wunused-but-set-parameter -Warray-bounds -Wtype-limits -Wreturn-type -Wsequence-point -Wparentheses -Wmissing-braces -Wchar-subscripts -Wswitch -Wwrite-strings -Wenum-compare -Wempty-body -std=c++11    -o CMakeFiles/cmTC_f12b3.dir/CheckSymbolExists.cxx.o -c /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:2:47: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_f12b3.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f12b3.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_f12b3.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f12b3/fast' failed
+make: *** [cmTC_f12b3/fast] Error 2
+
+File /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_2_0
+  return ((int*)(&CL_VERSION_2_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the CL_VERSION_1_2 exist failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_31ba2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_31ba2.dir/build.make CMakeFiles/cmTC_31ba2.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_31ba2.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++     -DBT_USE_DOUBLE_PRECISION -Wall -Wuninitialized -Winit-self -Wunused-function -Wunused-label -Wunused-variable -Wunused-but-set-variable -Wunused-but-set-parameter -Warray-bounds -Wtype-limits -Wreturn-type -Wsequence-point -Wparentheses -Wmissing-braces -Wchar-subscripts -Wswitch -Wwrite-strings -Wenum-compare -Wempty-body -std=c++11    -o CMakeFiles/cmTC_31ba2.dir/CheckSymbolExists.cxx.o -c /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:2:47: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_31ba2.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_31ba2.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_31ba2.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_31ba2/fast' failed
+make: *** [cmTC_31ba2/fast] Error 2
+
+File /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_2
+  return ((int*)(&CL_VERSION_1_2))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the CL_VERSION_1_1 exist failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_070bd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_070bd.dir/build.make CMakeFiles/cmTC_070bd.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_070bd.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++     -DBT_USE_DOUBLE_PRECISION -Wall -Wuninitialized -Winit-self -Wunused-function -Wunused-label -Wunused-variable -Wunused-but-set-variable -Wunused-but-set-parameter -Warray-bounds -Wtype-limits -Wreturn-type -Wsequence-point -Wparentheses -Wmissing-braces -Wchar-subscripts -Wswitch -Wwrite-strings -Wenum-compare -Wempty-body -std=c++11    -o CMakeFiles/cmTC_070bd.dir/CheckSymbolExists.cxx.o -c /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:2:47: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_070bd.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_070bd.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_070bd.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_070bd/fast' failed
+make: *** [cmTC_070bd/fast] Error 2
+
+File /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_1
+  return ((int*)(&CL_VERSION_1_1))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the CL_VERSION_1_0 exist failed with the following output:
+Change Dir: /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_07321/fast"
+/usr/bin/make -f CMakeFiles/cmTC_07321.dir/build.make CMakeFiles/cmTC_07321.dir/build
+make[1]: Entering directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_07321.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++     -DBT_USE_DOUBLE_PRECISION -Wall -Wuninitialized -Winit-self -Wunused-function -Wunused-label -Wunused-variable -Wunused-but-set-variable -Wunused-but-set-parameter -Warray-bounds -Wtype-limits -Wreturn-type -Wsequence-point -Wparentheses -Wmissing-braces -Wchar-subscripts -Wswitch -Wwrite-strings -Wenum-compare -Wempty-body -std=c++11    -o CMakeFiles/cmTC_07321.dir/CheckSymbolExists.cxx.o -c /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:2:47: fatal error: OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTC_07321.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_07321.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_07321.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_07321/fast' failed
+make: *** [cmTC_07321/fast] Error 2
+
+File /home/hri/catkin_ws/build/kinect2_registration/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <OpenCL_INCLUDE_DIR-NOTFOUND/CL/cl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef CL_VERSION_1_0
+  return ((int*)(&CL_VERSION_1_0))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

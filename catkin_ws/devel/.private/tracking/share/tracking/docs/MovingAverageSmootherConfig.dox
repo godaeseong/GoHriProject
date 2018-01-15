@@ -1,0 +1,11 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~track_lifetime_with_no_detections" : \b [double] Time lapse (after last detection) before a track is removed min: 0.0, default: 0.5, max: 5.0
+- \b "~heartbeat_time" : \b [double] Interval between two heartbeat messages min: 1.0, default: 5.0, max: 20.0
+- \b "~publish_empty" : \b [bool] Flag stating if empty tracking messages should be published or not (if False, an heartbeat message is published) min: False, default: True, max: True
+- \b "~window_size" : \b [int] Number of positions to account when calculating the average position min: 1, default: 10, max: 100
+- \b "~position_lifetime" : \b [double] Time lapse before a position is removed from the position list min: 0.0, default: 1.0, max: 5.0
+- \b "~max_history_size" : \b [int] Dimension of the point cloud containing track trajectories min: 1, default: 500, max: 10000
+

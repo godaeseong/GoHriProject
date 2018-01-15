@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/calibration_algorithms
+
+Name: calibration_algorithms
+Description: Description of calibration_algorithms
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/src/calibration_toolkit/calibration_algorithms/include
+Libs: -L/home/hri/catkin_ws/devel/.private/calibration_algorithms/lib -lcalibration_algorithms -lplane_to_plane_calibration
+Requires: calibration_common calibration_pcl

@@ -1,0 +1,5 @@
+openptrack/bayes
+/home/hri/catkin_ws/devel/.private/bayes/lib/libbayes.so /home/hri/catkin_ws/devel/lib/libbayes.so
+/home/hri/catkin_ws/devel/.private/bayes/lib/pkgconfig/bayes.pc /home/hri/catkin_ws/devel/lib/pkgconfig/bayes.pc
+/home/hri/catkin_ws/devel/.private/bayes/share/bayes/cmake/bayesConfig.cmake /home/hri/catkin_ws/devel/share/bayes/cmake/bayesConfig.cmake
+/home/hri/catkin_ws/devel/.private/bayes/share/bayes/cmake/bayesConfig-version.cmake /home/hri/catkin_ws/devel/share/bayes/cmake/bayesConfig-version.cmake

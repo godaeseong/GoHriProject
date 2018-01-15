@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/polly_speech
+
+Name: polly_speech
+Description: Description of polly_speech
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/devel/.private/polly_speech/include
+Libs: -L/home/hri/catkin_ws/devel/.private/polly_speech/lib 
+Requires: 

@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mhri</name>
+  <version>0.0.0</version>
+  <description>Meta package that contains all essential package of mhri</description>
+
+  <maintainer email="byeongkyu@gmail.com">Byeong-Kyu Ahn</maintainer>
+  <author email="byeongkyu@gmail.com">Byeong-Kyu Ahn</author>
+
+  <license>BSD</license>
+  <url type="website">https://github.com/mhri/mhri/wiki</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>mhri_msgs</depend>
+  <depend>mhri_social_msgs</depend>
+  <depend>social_mind</depend>
+  <depend>events_multiplexer</depend>
+  <depend>mhri_dialog</depend>
+  <depend>motion_arbiter</depend>
+  <depend>motion_renderer</depend>
+  <depend>motion_tools</depend>
+
+  <export>
+  </export>
+</package>

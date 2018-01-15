@@ -1,0 +1,4 @@
+Symlinking /home/hri/catkin_ws/devel/lib/python2.7/dist-packages/perception_base/__init__.py
+Symlinking /home/hri/catkin_ws/devel/lib/pkgconfig/perception_base.pc
+Symlinking /home/hri/catkin_ws/devel/share/perception_base/cmake/perception_baseConfig-version.cmake
+Symlinking /home/hri/catkin_ws/devel/share/perception_base/cmake/perception_baseConfig.cmake

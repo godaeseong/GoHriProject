@@ -1,0 +1,36 @@
+[  2%] Built target roi_msgs
+[  2%] Built target _opt_msgs_generate_messages_check_deps_OPTTransform
+[  2%] Built target _opt_msgs_generate_messages_check_deps_HumanEntries
+[  2%] Built target _opt_msgs_generate_messages_check_deps_OPTSensor
+[  2%] Built target _opt_msgs_generate_messages_check_deps_BoundingBox2D
+[  2%] Built target _opt_msgs_generate_messages_check_deps_Rois
+[  2%] Built target _opt_msgs_generate_messages_check_deps_Track
+[  2%] Built target geometry_msgs_generate_messages_cpp
+[  2%] Built target sensor_msgs_generate_messages_cpp
+[  2%] Built target _opt_msgs_generate_messages_check_deps_RoiRect
+[  2%] Built target std_msgs_generate_messages_cpp
+[  2%] Built target _opt_msgs_generate_messages_check_deps_HumanEntry
+[  2%] Built target _opt_msgs_generate_messages_check_deps_CalibrationStatus
+[  2%] Built target _opt_msgs_generate_messages_check_deps_BoundingBox3D
+[  2%] Built target _opt_msgs_generate_messages_check_deps_TrackArray
+[  2%] Built target _opt_msgs_generate_messages_check_deps_IDArray
+[  2%] Built target _opt_msgs_generate_messages_check_deps_DetectionArray
+[  2%] Built target std_msgs_generate_messages_py
+[  2%] Built target geometry_msgs_generate_messages_py
+[  2%] Built target _opt_msgs_generate_messages_check_deps_Detection
+[  2%] Built target sensor_msgs_generate_messages_py
+[  2%] Built target sensor_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_nodejs
+[  2%] Built target std_msgs_generate_messages_nodejs
+[  2%] Built target geometry_msgs_generate_messages_eus
+[  2%] Built target std_msgs_generate_messages_eus
+[  2%] Built target sensor_msgs_generate_messages_eus
+[  2%] Built target std_msgs_generate_messages_lisp
+[  2%] Built target geometry_msgs_generate_messages_lisp
+[  2%] Built target sensor_msgs_generate_messages_lisp
+[ 21%] Built target opt_msgs_generate_messages_cpp
+[ 40%] Built target opt_msgs_generate_messages_nodejs
+[ 61%] Built target opt_msgs_generate_messages_py
+[ 80%] Built target opt_msgs_generate_messages_lisp
+[100%] Built target opt_msgs_generate_messages_eus
+[100%] Built target opt_msgs_generate_messages

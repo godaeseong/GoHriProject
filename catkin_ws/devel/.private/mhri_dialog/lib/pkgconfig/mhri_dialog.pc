@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/mhri_dialog
+
+Name: mhri_dialog
+Description: Description of mhri_dialog
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/mhri_dialog/lib 
+Requires: 

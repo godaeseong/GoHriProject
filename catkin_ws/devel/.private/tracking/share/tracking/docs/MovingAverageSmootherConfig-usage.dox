@@ -1,0 +1,12 @@
+\subsubsection usage Usage
+\verbatim
+<node name="moving_average_smoother" pkg="tracking" type="moving_average_smoother">
+  <param name="track_lifetime_with_no_detections" type="double" value="0.5" />
+  <param name="heartbeat_time" type="double" value="5.0" />
+  <param name="publish_empty" type="bool" value="True" />
+  <param name="window_size" type="int" value="10" />
+  <param name="position_lifetime" type="double" value="1.0" />
+  <param name="max_history_size" type="int" value="500" />
+</node>
+\endverbatim
+

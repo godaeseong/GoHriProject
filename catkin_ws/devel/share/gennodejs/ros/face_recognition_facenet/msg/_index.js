@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/face_recognition_facenet/share/gennodejs/ros/face_recognition_facenet/msg/_index.js

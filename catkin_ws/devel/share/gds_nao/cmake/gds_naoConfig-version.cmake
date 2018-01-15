@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/gds_nao/share/gds_nao/cmake/gds_naoConfig-version.cmake

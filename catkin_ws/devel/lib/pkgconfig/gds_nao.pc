@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/gds_nao/lib/pkgconfig/gds_nao.pc

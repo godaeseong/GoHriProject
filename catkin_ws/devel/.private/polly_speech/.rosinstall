@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hri/catkin_ws/devel/.private/polly_speech/setup.sh

@@ -1,0 +1,5 @@
+Linked: (/home/hri/catkin_ws/devel/.private/kinect2_bridge/lib/libkinect2_bridge_nodelet.so, /home/hri/catkin_ws/devel/lib/libkinect2_bridge_nodelet.so)
+Linked: (/home/hri/catkin_ws/devel/.private/kinect2_bridge/lib/pkgconfig/kinect2_bridge.pc, /home/hri/catkin_ws/devel/lib/pkgconfig/kinect2_bridge.pc)
+Linked: (/home/hri/catkin_ws/devel/.private/kinect2_bridge/lib/kinect2_bridge/kinect2_bridge, /home/hri/catkin_ws/devel/lib/kinect2_bridge/kinect2_bridge)
+Linked: (/home/hri/catkin_ws/devel/.private/kinect2_bridge/share/kinect2_bridge/cmake/kinect2_bridgeConfig-version.cmake, /home/hri/catkin_ws/devel/share/kinect2_bridge/cmake/kinect2_bridgeConfig-version.cmake)
+Linked: (/home/hri/catkin_ws/devel/.private/kinect2_bridge/share/kinect2_bridge/cmake/kinect2_bridgeConfig.cmake, /home/hri/catkin_ws/devel/share/kinect2_bridge/cmake/kinect2_bridgeConfig.cmake)

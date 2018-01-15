@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/google_cloud_speech/share/roseus/ros/google_cloud_speech/msg/RecognizedWord.l

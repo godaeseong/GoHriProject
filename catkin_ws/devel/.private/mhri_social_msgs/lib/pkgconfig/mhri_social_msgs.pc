@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/mhri_social_msgs
+
+Name: mhri_social_msgs
+Description: Description of mhri_social_msgs
+Version: 0.0.0
+Cflags: -I/home/hri/catkin_ws/devel/.private/mhri_social_msgs/include
+Libs: -L/home/hri/catkin_ws/devel/.private/mhri_social_msgs/lib 
+Requires: 

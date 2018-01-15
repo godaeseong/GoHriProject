@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/nao_v5_daeseong/lib/pkgconfig/nao_v5_daeseong.pc

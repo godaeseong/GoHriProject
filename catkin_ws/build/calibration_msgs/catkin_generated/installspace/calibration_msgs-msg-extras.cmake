@@ -1,0 +1,2 @@
+set(calibration_msgs_MESSAGE_FILES "msg/Checkerboard.msg;msg/PointArray.msg;msg/Point2D.msg;msg/Point2DArray.msg;msg/Polynomial.msg;msg/CalibrationPose.msg;msg/CheckerboardExtractionAction.msg;msg/CheckerboardExtractionActionGoal.msg;msg/CheckerboardExtractionActionResult.msg;msg/CheckerboardExtractionActionFeedback.msg;msg/CheckerboardExtractionGoal.msg;msg/CheckerboardExtractionResult.msg;msg/CheckerboardExtractionFeedback.msg")
+set(calibration_msgs_SERVICE_FILES "srv/GetDeviceInfo.srv;srv/GetCalibrationResults.srv")

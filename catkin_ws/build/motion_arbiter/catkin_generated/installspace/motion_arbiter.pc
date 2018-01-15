@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: motion_arbiter
+Description: Description of motion_arbiter
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/install/lib 
+Requires: 

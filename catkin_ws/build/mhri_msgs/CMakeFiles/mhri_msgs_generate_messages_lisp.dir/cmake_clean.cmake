@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mhri_msgs_generate_messages_lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneActionFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemActionFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/GazeCommand.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventAction.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneAction.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventActionResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/ForwardingEvent.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventActionFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemActionGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/LogItem.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RaisingEvents.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemAction.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneActionGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/Reply.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemActionResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderSceneActionResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventFeedback.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/WaitEventActionGoal.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/RenderItemResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/msg/ScriptStatus.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/WriteData.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/RegisterData.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/ReadData.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/ReloadWithResult.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/GetDataList.lisp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/common-lisp/ros/mhri_msgs/srv/GetInstalledGestures.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mhri_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

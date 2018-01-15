@@ -1,0 +1,4 @@
+mhri_workspace/mhri/motion_arbiter
+/home/hri/catkin_ws/devel/.private/motion_arbiter/lib/pkgconfig/motion_arbiter.pc /home/hri/catkin_ws/devel/lib/pkgconfig/motion_arbiter.pc
+/home/hri/catkin_ws/devel/.private/motion_arbiter/share/motion_arbiter/cmake/motion_arbiterConfig-version.cmake /home/hri/catkin_ws/devel/share/motion_arbiter/cmake/motion_arbiterConfig-version.cmake
+/home/hri/catkin_ws/devel/.private/motion_arbiter/share/motion_arbiter/cmake/motion_arbiterConfig.cmake /home/hri/catkin_ws/devel/share/motion_arbiter/cmake/motion_arbiterConfig.cmake

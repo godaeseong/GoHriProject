@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/nao_v5_daeseong
+
+Name: nao_v5_daeseong
+Description: Description of nao_v5_daeseong
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/nao_v5_daeseong/lib 
+Requires: 

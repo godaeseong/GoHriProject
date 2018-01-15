@@ -1,0 +1,19 @@
+\subsubsection usage Usage
+\verbatim
+<node name="tracking" pkg="tracking" type="tracking">
+  <param name="min_confidence_initialization" type="double" value="4.0" />
+  <param name="max_detection_delay" type="double" value="2.0" />
+  <param name="calibration_refinement" type="bool" value="False" />
+  <param name="gate_distance_probability" type="double" value="0.99" />
+  <param name="acceleration_variance" type="double" value="100.0" />
+  <param name="position_variance_weight" type="double" value="30.0" />
+  <param name="detector_likelihood" type="bool" value="True" />
+  <param name="detector_weight" type="double" value="-0.25" />
+  <param name="motion_weight" type="double" value="0.25" />
+  <param name="sec_before_old" type="double" value="8.0" />
+  <param name="sec_before_fake" type="double" value="2.4" />
+  <param name="sec_remain_new" type="double" value="1.2" />
+  <param name="detections_to_validate" type="int" value="3" />
+</node>
+\endverbatim
+

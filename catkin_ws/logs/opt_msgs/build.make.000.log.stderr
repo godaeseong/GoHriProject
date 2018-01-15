@@ -1,0 +1,6 @@
+In file included from [01m[K/home/hri/catkin_ws/src/openptrack/opt_msgs/src/overlap.cpp:33:0[m[K:
+[01m[K/home/hri/catkin_ws/src/openptrack/opt_msgs/include/open_ptrack/opt_msgs/overlap.h:35:30:[m[K [01;31m[Kfatal error: [m[Kopt_msgs/RoiRect.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/roi_msgs.dir/src/overlap.cpp.o] Error 1
+make[1]: *** [CMakeFiles/roi_msgs.dir/all] Error 2
+make: *** [all] Error 2

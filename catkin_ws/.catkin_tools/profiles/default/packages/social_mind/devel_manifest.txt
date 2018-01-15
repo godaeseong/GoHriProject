@@ -1,0 +1,4 @@
+mhri_workspace/mhri/social_mind
+/home/hri/catkin_ws/devel/.private/social_mind/lib/pkgconfig/social_mind.pc /home/hri/catkin_ws/devel/lib/pkgconfig/social_mind.pc
+/home/hri/catkin_ws/devel/.private/social_mind/share/social_mind/cmake/social_mindConfig-version.cmake /home/hri/catkin_ws/devel/share/social_mind/cmake/social_mindConfig-version.cmake
+/home/hri/catkin_ws/devel/.private/social_mind/share/social_mind/cmake/social_mindConfig.cmake /home/hri/catkin_ws/devel/share/social_mind/cmake/social_mindConfig.cmake

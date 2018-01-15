@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/polly_speech/lib/python2.7/dist-packages/polly_speech/msg/__init__.py

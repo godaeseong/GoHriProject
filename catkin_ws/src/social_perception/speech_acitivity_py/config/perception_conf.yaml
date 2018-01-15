@@ -1,0 +1,4 @@
+speech_activity_monitor:
+    target_memory: 'social_events_memory'
+    events: ['start_of_speech', 'end_of_speech', 'silency_detected']
+    data: {}

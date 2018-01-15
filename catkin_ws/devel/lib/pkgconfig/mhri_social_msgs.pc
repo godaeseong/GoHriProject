@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/mhri_social_msgs/lib/pkgconfig/mhri_social_msgs.pc

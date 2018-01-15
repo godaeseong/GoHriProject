@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/calibration_msgs/share/roseus/ros/calibration_msgs/manifest.l

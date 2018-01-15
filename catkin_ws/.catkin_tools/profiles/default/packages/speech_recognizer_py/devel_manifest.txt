@@ -1,0 +1,4 @@
+social_perception/speech_recognizer_py
+/home/hri/catkin_ws/devel/.private/speech_recognizer_py/lib/pkgconfig/speech_recognizer_py.pc /home/hri/catkin_ws/devel/lib/pkgconfig/speech_recognizer_py.pc
+/home/hri/catkin_ws/devel/.private/speech_recognizer_py/share/speech_recognizer_py/cmake/speech_recognizer_pyConfig-version.cmake /home/hri/catkin_ws/devel/share/speech_recognizer_py/cmake/speech_recognizer_pyConfig-version.cmake
+/home/hri/catkin_ws/devel/.private/speech_recognizer_py/share/speech_recognizer_py/cmake/speech_recognizer_pyConfig.cmake /home/hri/catkin_ws/devel/share/speech_recognizer_py/cmake/speech_recognizer_pyConfig.cmake

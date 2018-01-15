@@ -1,0 +1,6 @@
+speech_recognition:
+    target_memory: 'social_events_memory'
+    events: ['speech_recognized']
+    data:
+        recognized_word: ''
+        confidence: 0.0

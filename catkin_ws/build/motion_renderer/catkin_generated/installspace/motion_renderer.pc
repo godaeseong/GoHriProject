@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: motion_renderer
+Description: Description of motion_renderer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/install/lib 
+Requires: 

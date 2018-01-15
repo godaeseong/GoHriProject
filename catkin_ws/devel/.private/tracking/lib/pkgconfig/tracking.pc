@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/tracking
+
+Name: tracking
+Description: Description of tracking
+Version: 0.0.1
+Cflags: -I/home/hri/catkin_ws/devel/.private/tracking/include -I/home/hri/catkin_ws/src/openptrack/tracking/include
+Libs: -L/home/hri/catkin_ws/devel/.private/tracking/lib -ltracking
+Requires: roscpp bayes opencv2 pcl_ros detection tf tf_conversions opt_msgs opt_utils

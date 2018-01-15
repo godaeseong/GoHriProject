@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/social_mind
+
+Name: social_mind
+Description: Description of social_mind
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/social_mind/lib 
+Requires: 

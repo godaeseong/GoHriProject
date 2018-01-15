@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: multisensor_calibration
+Description: Description of multisensor_calibration
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/install/include -I/usr/include/yaml-cpp/
+Libs: -L/home/hri/catkin_ws/install/lib -lyaml-cpp
+Requires: calibration_ros calibration_msgs calibration_algorithms

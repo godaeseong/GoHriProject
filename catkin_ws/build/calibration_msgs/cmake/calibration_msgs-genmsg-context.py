@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/Checkerboard.msg;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/PointArray.msg;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/Point2D.msg;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/Point2DArray.msg;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/Polynomial.msg;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg/CalibrationPose.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionAction.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionActionGoal.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionActionResult.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionActionFeedback.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionGoal.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionResult.msg;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg/CheckerboardExtractionFeedback.msg"
+services_str = "/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/srv/GetDeviceInfo.srv;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/srv/GetCalibrationResults.srv"
+pkg_name = "calibration_msgs"
+dependencies_str = "sensor_msgs;actionlib_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "calibration_msgs;/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/msg;calibration_msgs;/home/hri/catkin_ws/devel/.private/calibration_msgs/share/calibration_msgs/msg;sensor_msgs;/opt/ros/kinetic/share/sensor_msgs/cmake/../msg;actionlib_msgs;/opt/ros/kinetic/share/actionlib_msgs/cmake/../msg;geometry_msgs;/opt/ros/kinetic/share/geometry_msgs/cmake/../msg;std_msgs;/opt/ros/kinetic/share/std_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/kinetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

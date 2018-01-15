@@ -1,0 +1,29 @@
+(cl:defpackage opt_msgs-msg
+  (:use )
+  (:export
+   "<BOUNDINGBOX2D>"
+   "BOUNDINGBOX2D"
+   "<BOUNDINGBOX3D>"
+   "BOUNDINGBOX3D"
+   "<CALIBRATIONSTATUS>"
+   "CALIBRATIONSTATUS"
+   "<DETECTION>"
+   "DETECTION"
+   "<DETECTIONARRAY>"
+   "DETECTIONARRAY"
+   "<HUMANENTRIES>"
+   "HUMANENTRIES"
+   "<HUMANENTRY>"
+   "HUMANENTRY"
+   "<IDARRAY>"
+   "IDARRAY"
+   "<ROIRECT>"
+   "ROIRECT"
+   "<ROIS>"
+   "ROIS"
+   "<TRACK>"
+   "TRACK"
+   "<TRACKARRAY>"
+   "TRACKARRAY"
+  ))
+

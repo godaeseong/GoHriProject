@@ -1,0 +1,3 @@
+Symlinking /home/hri/catkin_ws/devel/lib/pkgconfig/nao_v5.pc
+Symlinking /home/hri/catkin_ws/devel/share/nao_v5/cmake/nao_v5Config.cmake
+Symlinking /home/hri/catkin_ws/devel/share/nao_v5/cmake/nao_v5Config-version.cmake

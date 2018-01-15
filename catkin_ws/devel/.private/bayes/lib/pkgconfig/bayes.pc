@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/bayes
+
+Name: bayes
+Description: Description of bayes
+Version: 0.0.0
+Cflags: -I/home/hri/catkin_ws/src/openptrack/bayes/include -I/home/hri/catkin_ws/src/openptrack/bayes/include/open_ptrack/bayes -I/home/hri/catkin_ws/src/openptrack/bayes/include/open_ptrack/bayes/filters
+Libs: -L/home/hri/catkin_ws/devel/.private/bayes/lib -lbayes
+Requires: roscpp

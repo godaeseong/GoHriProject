@@ -1,0 +1,13 @@
+[ 12%] Built target google_cloud_speech_gencfg
+[ 12%] Built target std_msgs_generate_messages_eus
+[ 12%] Built target std_msgs_generate_messages_nodejs
+[ 12%] Built target _google_cloud_speech_generate_messages_check_deps_RecognizedWord
+[ 12%] Built target std_msgs_generate_messages_lisp
+[ 12%] Built target std_msgs_generate_messages_py
+[ 12%] Built target std_msgs_generate_messages_cpp
+[ 37%] Built target google_cloud_speech_generate_messages_eus
+[ 50%] Built target google_cloud_speech_generate_messages_nodejs
+[ 62%] Built target google_cloud_speech_generate_messages_lisp
+[ 87%] Built target google_cloud_speech_generate_messages_py
+[100%] Built target google_cloud_speech_generate_messages_cpp
+[100%] Built target google_cloud_speech_generate_messages

@@ -1,0 +1,3 @@
+Symlinking /home/hri/catkin_ws/devel/lib/pkgconfig/gds_nao.pc
+Symlinking /home/hri/catkin_ws/devel/share/gds_nao/cmake/gds_naoConfig-version.cmake
+Symlinking /home/hri/catkin_ws/devel/share/gds_nao/cmake/gds_naoConfig.cmake

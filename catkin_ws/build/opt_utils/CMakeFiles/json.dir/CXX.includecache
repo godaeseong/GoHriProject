@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hri/catkin_ws/src/openptrack/opt_utils/include/open_ptrack/opt_utils/json.h
+string
+-
+vector
+-
+queue
+-
+iterator
+-
+stdexcept
+-
+
+/home/hri/catkin_ws/src/openptrack/opt_utils/src/json.cpp
+open_ptrack/opt_utils/json.h
+/home/hri/catkin_ws/src/openptrack/opt_utils/src/open_ptrack/opt_utils/json.h
+sstream
+-
+fstream
+-
+stack
+-
+algorithm
+-
+

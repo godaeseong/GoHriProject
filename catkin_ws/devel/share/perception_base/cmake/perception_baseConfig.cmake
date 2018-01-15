@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/perception_base/share/perception_base/cmake/perception_baseConfig.cmake

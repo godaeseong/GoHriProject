@@ -1,0 +1,24 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~valid_points_threshold" : \b [double] Minimum ratio of valid point cloud points min: 0.0, default: 0.3, max: 1.0
+- \b "~ground_based_people_detection_min_confidence" : \b [double] Minimum detection confidence (hog+svm) min: -10.0, default: -1.75, max: 10.0
+- \b "~minimum_person_height" : \b [double] Minimum person height min: 0.0, default: 1.0, max: 2.0
+- \b "~maximum_person_height" : \b [double] Maximum person height min: 1.0, default: 2.3, max: 4.0
+- \b "~max_distance" : \b [double] Threshold on distance from the sensor min: 1.0, default: 50.0, max: 50.0
+- \b "~sampling_factor" : \b [int] Point cloud downsampling factor min: 1, default: 4, max: 8
+- \b "~use_rgb" : \b [bool] Flag stating if classifiers based on RGB image should be used or not min: False, default: True, max: True
+- \b "~minimum_luminance" : \b [int] Threshold on image luminance. If luminance is over this threshold, classifiers on RGB image are also used min: 0, default: 120, max: 255
+- \b "~sensor_tilt_compensation" : \b [bool] If true, sensor tilt angle wrt ground plane is compensated to improve people detection min: False, default: True, max: True
+- \b "~heads_minimum_distance" : \b [double] Minimum distance between two persons min: 0.0, default: 0.3, max: 1.0
+- \b "~voxel_size" : \b [double] Voxel size used to downsample the point cloud min: 0.01, default: 0.06, max: 0.1
+- \b "~apply_denoising" : \b [bool] If true, a statistical filter is applied to the point cloud to remove noise min: False, default: False, max: True
+- \b "~mean_k_denoising" : \b [double] Mean K: number of neighbors to analyze for each point min: 1.0, default: 5.0, max: 100.0
+- \b "~std_dev_denoising" : \b [double] Standard deviation for denoising min: 0.1, default: 0.3, max: 1.0
+- \b "~background_subtraction" : \b [bool] Flag enabling/disabling background subtraction min: False, default: False, max: True
+- \b "~background_resolution" : \b [double] Resolution of the octree representing the background min: 0.01, default: 0.3, max: 1.0
+- \b "~background_seconds" : \b [double] Seconds to use to learn the background min: 0.2, default: 3.0, max: 10.0
+- \b "~lock_ground" : \b [bool] # Flag that locks the ground plane update min: False, default: False, max: True
+- \b "~sr_conf_threshold" : \b [int] Threshold on SwissRanger depth confidence min: 0, default: 180, max: 255
+

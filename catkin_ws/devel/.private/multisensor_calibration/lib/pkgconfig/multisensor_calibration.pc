@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/multisensor_calibration
+
+Name: multisensor_calibration
+Description: Description of multisensor_calibration
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/src/calibration_toolkit/multisensor_calibration/include -I/usr/include/yaml-cpp/
+Libs: -L/home/hri/catkin_ws/devel/.private/multisensor_calibration/lib -lyaml-cpp
+Requires: calibration_ros calibration_msgs calibration_algorithms

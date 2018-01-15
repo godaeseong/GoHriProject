@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~audio_threshold" : \b [int] An Audio Threadhold Value min: 80, default: 1000, max: 2000
+- \b "~language" : \b [str] A language code for speech recognition min: , default: en_US, max: 
+

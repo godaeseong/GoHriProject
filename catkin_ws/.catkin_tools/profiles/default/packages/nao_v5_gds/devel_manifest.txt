@@ -1,0 +1,4 @@
+examples_social_robots/nao_v5_gds
+/home/hri/catkin_ws/devel/.private/nao_v5_gds/lib/pkgconfig/nao_v5_gds.pc /home/hri/catkin_ws/devel/lib/pkgconfig/nao_v5_gds.pc
+/home/hri/catkin_ws/devel/.private/nao_v5_gds/share/nao_v5_gds/cmake/nao_v5_gdsConfig-version.cmake /home/hri/catkin_ws/devel/share/nao_v5_gds/cmake/nao_v5_gdsConfig-version.cmake
+/home/hri/catkin_ws/devel/.private/nao_v5_gds/share/nao_v5_gds/cmake/nao_v5_gdsConfig.cmake /home/hri/catkin_ws/devel/share/nao_v5_gds/cmake/nao_v5_gdsConfig.cmake

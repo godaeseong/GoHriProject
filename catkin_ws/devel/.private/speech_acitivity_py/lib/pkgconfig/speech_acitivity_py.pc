@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/speech_acitivity_py
+
+Name: speech_acitivity_py
+Description: Description of speech_acitivity_py
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/speech_acitivity_py/lib 
+Requires: 

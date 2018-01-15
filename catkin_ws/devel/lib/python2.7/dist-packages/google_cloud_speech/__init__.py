@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/google_cloud_speech/lib/python2.7/dist-packages/google_cloud_speech/__init__.py

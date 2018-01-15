@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/speech_recognizer_py/share/speech_recognizer_py/cmake/speech_recognizer_pyConfig.cmake

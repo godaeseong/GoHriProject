@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mhri_msgs_generate_messages_cpp"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneActionFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemActionFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/GazeCommand.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventAction.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneAction.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventActionResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/ForwardingEvent.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventActionFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemActionGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/LogItem.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RaisingEvents.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemAction.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneActionGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/Reply.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemActionResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderSceneActionResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventFeedback.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WaitEventActionGoal.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RenderItemResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/ScriptStatus.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/WriteData.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/RegisterData.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/ReadData.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/ReloadWithResult.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/GetDataList.h"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/include/mhri_msgs/GetInstalledGestures.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mhri_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

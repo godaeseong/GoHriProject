@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mhri_msgs_generate_messages_nodejs"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneActionFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemActionFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/GazeCommand.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventAction.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneAction.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventActionResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/ForwardingEvent.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventActionFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemActionGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/LogItem.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RaisingEvents.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemAction.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneActionGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/Reply.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemActionResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderSceneActionResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventFeedback.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/WaitEventActionGoal.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/RenderItemResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/msg/ScriptStatus.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/WriteData.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/RegisterData.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/ReadData.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/ReloadWithResult.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/GetDataList.js"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/gennodejs/ros/mhri_msgs/srv/GetInstalledGestures.js"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mhri_msgs_generate_messages_nodejs.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

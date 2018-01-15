@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/detection/lib/python2.7/dist-packages/detection/cfg/HaarDispAdaDetectorConfig.py

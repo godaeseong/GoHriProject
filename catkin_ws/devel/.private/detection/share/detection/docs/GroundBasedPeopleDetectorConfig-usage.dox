@@ -1,0 +1,25 @@
+\subsubsection usage Usage
+\verbatim
+<node name="detection" pkg="detection" type="detection">
+  <param name="valid_points_threshold" type="double" value="0.3" />
+  <param name="ground_based_people_detection_min_confidence" type="double" value="-1.75" />
+  <param name="minimum_person_height" type="double" value="1.0" />
+  <param name="maximum_person_height" type="double" value="2.3" />
+  <param name="max_distance" type="double" value="50.0" />
+  <param name="sampling_factor" type="int" value="4" />
+  <param name="use_rgb" type="bool" value="True" />
+  <param name="minimum_luminance" type="int" value="120" />
+  <param name="sensor_tilt_compensation" type="bool" value="True" />
+  <param name="heads_minimum_distance" type="double" value="0.3" />
+  <param name="voxel_size" type="double" value="0.06" />
+  <param name="apply_denoising" type="bool" value="False" />
+  <param name="mean_k_denoising" type="double" value="5.0" />
+  <param name="std_dev_denoising" type="double" value="0.3" />
+  <param name="background_subtraction" type="bool" value="False" />
+  <param name="background_resolution" type="double" value="0.3" />
+  <param name="background_seconds" type="double" value="3.0" />
+  <param name="lock_ground" type="bool" value="False" />
+  <param name="sr_conf_threshold" type="int" value="180" />
+</node>
+\endverbatim
+

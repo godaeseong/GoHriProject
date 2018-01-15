@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="google_cloud_speech" pkg="google_cloud_speech" type="google_cloud_speech">
+  <param name="audio_threshold" type="int" value="1000" />
+  <param name="language" type="str" value="en_US" />
+</node>
+\endverbatim
+

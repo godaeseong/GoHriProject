@@ -1,0 +1,20 @@
+openptrack/detection
+/home/hri/catkin_ws/devel/.private/detection/lib/libhaar_disp_ada.so /home/hri/catkin_ws/devel/lib/libhaar_disp_ada.so
+/home/hri/catkin_ws/devel/.private/detection/lib/libdetection.so /home/hri/catkin_ws/devel/lib/libdetection.so
+/home/hri/catkin_ws/devel/.private/detection/lib/python2.7/dist-packages/detection/__init__.py /home/hri/catkin_ws/devel/lib/python2.7/dist-packages/detection/__init__.py
+/home/hri/catkin_ws/devel/.private/detection/lib/python2.7/dist-packages/detection/cfg/HaarDispAdaDetectorConfig.py /home/hri/catkin_ws/devel/lib/python2.7/dist-packages/detection/cfg/HaarDispAdaDetectorConfig.py
+/home/hri/catkin_ws/devel/.private/detection/lib/python2.7/dist-packages/detection/cfg/__init__.py /home/hri/catkin_ws/devel/lib/python2.7/dist-packages/detection/cfg/__init__.py
+/home/hri/catkin_ws/devel/.private/detection/lib/python2.7/dist-packages/detection/cfg/GroundBasedPeopleDetectorConfig.py /home/hri/catkin_ws/devel/lib/python2.7/dist-packages/detection/cfg/GroundBasedPeopleDetectorConfig.py
+/home/hri/catkin_ws/devel/.private/detection/lib/pkgconfig/detection.pc /home/hri/catkin_ws/devel/lib/pkgconfig/detection.pc
+/home/hri/catkin_ws/devel/.private/detection/lib/detection/ground_based_people_detector /home/hri/catkin_ws/devel/lib/detection/ground_based_people_detector
+/home/hri/catkin_ws/devel/.private/detection/lib/detection/HaarDispAda174 /home/hri/catkin_ws/devel/lib/detection/HaarDispAda174
+/home/hri/catkin_ws/devel/.private/detection/include/detection/GroundBasedPeopleDetectorConfig.h /home/hri/catkin_ws/devel/include/detection/GroundBasedPeopleDetectorConfig.h
+/home/hri/catkin_ws/devel/.private/detection/include/detection/HaarDispAdaDetectorConfig.h /home/hri/catkin_ws/devel/include/detection/HaarDispAdaDetectorConfig.h
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/GroundBasedPeopleDetectorConfig-usage.dox /home/hri/catkin_ws/devel/share/detection/docs/GroundBasedPeopleDetectorConfig-usage.dox
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/GroundBasedPeopleDetectorConfig.wikidoc /home/hri/catkin_ws/devel/share/detection/docs/GroundBasedPeopleDetectorConfig.wikidoc
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/GroundBasedPeopleDetectorConfig.dox /home/hri/catkin_ws/devel/share/detection/docs/GroundBasedPeopleDetectorConfig.dox
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/HaarDispAdaDetectorConfig.dox /home/hri/catkin_ws/devel/share/detection/docs/HaarDispAdaDetectorConfig.dox
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/HaarDispAdaDetectorConfig-usage.dox /home/hri/catkin_ws/devel/share/detection/docs/HaarDispAdaDetectorConfig-usage.dox
+/home/hri/catkin_ws/devel/.private/detection/share/detection/docs/HaarDispAdaDetectorConfig.wikidoc /home/hri/catkin_ws/devel/share/detection/docs/HaarDispAdaDetectorConfig.wikidoc
+/home/hri/catkin_ws/devel/.private/detection/share/detection/cmake/detectionConfig.cmake /home/hri/catkin_ws/devel/share/detection/cmake/detectionConfig.cmake
+/home/hri/catkin_ws/devel/.private/detection/share/detection/cmake/detectionConfig-version.cmake /home/hri/catkin_ws/devel/share/detection/cmake/detectionConfig-version.cmake

@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/mhri_msgs_generate_messages_eus"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneActionFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemActionFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/GazeCommand.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventAction.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneAction.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventActionResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/ForwardingEvent.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventActionFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemActionGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/LogItem.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RaisingEvents.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemAction.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneActionGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/Reply.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemActionResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneActionResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventFeedback.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/WaitEventActionGoal.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderItemResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/ScriptStatus.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/WriteData.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/RegisterData.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/ReadData.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/ReloadWithResult.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/GetDataList.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/srv/GetInstalledGestures.l"
+  "/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/manifest.l"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/mhri_msgs_generate_messages_eus.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

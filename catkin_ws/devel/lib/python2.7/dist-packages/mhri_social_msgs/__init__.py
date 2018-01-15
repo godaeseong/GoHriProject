@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/mhri_social_msgs/lib/python2.7/dist-packages/mhri_social_msgs/__init__.py

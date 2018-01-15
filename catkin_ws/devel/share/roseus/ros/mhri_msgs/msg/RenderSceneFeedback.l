@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/mhri_msgs/share/roseus/ros/mhri_msgs/msg/RenderSceneFeedback.l

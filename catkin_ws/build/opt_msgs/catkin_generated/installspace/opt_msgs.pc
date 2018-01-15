@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: opt_msgs
+Description: Description of opt_msgs
+Version: 0.0.1
+Cflags: -I/home/hri/catkin_ws/install/include
+Libs: -L/home/hri/catkin_ws/install/lib 
+Requires: roscpp std_msgs sensor_msgs message_runtime

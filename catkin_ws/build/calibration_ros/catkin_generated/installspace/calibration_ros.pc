@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: calibration_ros
+Description: Description of calibration_ros
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/install/include
+Libs: -L/home/hri/catkin_ws/install/lib -lcalibration_ros_sensors -lcalibration_ros_devices -lcalibration_ros_visualization
+Requires: image_transport cv_bridge calibration_pcl tf eigen_conversions

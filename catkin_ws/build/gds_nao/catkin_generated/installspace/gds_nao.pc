@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: gds_nao
+Description: Description of gds_nao
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/install/lib 
+Requires: 

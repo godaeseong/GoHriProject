@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/calibration_msgs/lib/pkgconfig/calibration_msgs.pc

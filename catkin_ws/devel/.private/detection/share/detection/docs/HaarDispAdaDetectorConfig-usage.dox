@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="detection" pkg="detection" type="detection">
+  <param name="haar_disp_ada_min_confidence" type="double" value="2.0" />
+  <param name="use_disparity" type="bool" value="True" />
+</node>
+\endverbatim
+

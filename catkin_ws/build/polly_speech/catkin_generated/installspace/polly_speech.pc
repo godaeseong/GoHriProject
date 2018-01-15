@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: polly_speech
+Description: Description of polly_speech
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/install/include
+Libs: -L/home/hri/catkin_ws/install/lib 
+Requires: 

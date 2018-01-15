@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/calibration_msgs
+
+Name: calibration_msgs
+Description: Description of calibration_msgs
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/devel/.private/calibration_msgs/include -I/home/hri/catkin_ws/src/calibration_toolkit/calibration_msgs/include
+Libs: -L/home/hri/catkin_ws/devel/.private/calibration_msgs/lib -lcalibration_msgs
+Requires: message_runtime sensor_msgs actionlib_msgs calibration_common eigen_conversions

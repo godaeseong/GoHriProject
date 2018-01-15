@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/motion_renderer/lib/pkgconfig/motion_renderer.pc

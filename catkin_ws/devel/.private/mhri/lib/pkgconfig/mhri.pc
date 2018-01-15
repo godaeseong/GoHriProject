@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/mhri
+
+Name: mhri
+Description: Description of mhri
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/mhri/lib 
+Requires: 

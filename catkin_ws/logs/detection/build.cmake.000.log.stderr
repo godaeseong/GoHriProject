@@ -1,0 +1,10 @@
+[31m[1mCMake Error[0m at /home/hri/catkin_ws/devel/share/opt_utils/cmake/opt_utilsConfig.cmake:148 (message):
+  Project 'detection' tried to find library 'json'.  The library is neither a
+  target nor built/installed properly.  Did you compile project 'opt_utils'?
+  Did you find_package() it before the subdirectory containing its code is
+  included?
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:76 (find_package)
+  CMakeLists.txt:10 (find_package)
+
+

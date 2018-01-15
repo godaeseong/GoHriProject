@@ -1,0 +1,7 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~haar_disp_ada_min_confidence" : \b [double] Minimum detection confidence (haar+ada) min: -10.0, default: 2.0, max: 10.0
+- \b "~use_disparity" : \b [bool] # Flag stating if classifiers based on disparity image should be used or not min: False, default: True, max: True
+

@@ -1,0 +1,30 @@
+[35m[1mScanning dependencies of target opt_calibration_refinement[0m
+[35m[1mScanning dependencies of target opt_define_reference_frame[0m
+[35m[1mScanning dependencies of target opt_calibration[0m
+[35m[1mScanning dependencies of target stereo_publisher[0m
+[  6%] [32mBuilding CXX object CMakeFiles/stereo_publisher.dir/apps/stereo_publisher.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/opt_calibration.dir/src/opt_calibration.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/opt_define_reference_frame.dir/src/opt_calibration.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/opt_calibration_refinement.dir/apps/opt_calibration_refinement.cpp.o[0m
+In file included from [01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/src/opt_calibration.cpp:43:0[m[K:
+[01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/include/open_ptrack/opt_calibration/opt_calibration.h:53:51:[m[K [01;31m[Kfatal error: [m[Kcalibration_common/calibration_common.h: No such file or directory
+compilation terminated.
+CMakeFiles/opt_define_reference_frame.dir/build.make:62: recipe for target 'CMakeFiles/opt_define_reference_frame.dir/src/opt_calibration.cpp.o' failed
+make[2]: *** [CMakeFiles/opt_define_reference_frame.dir/src/opt_calibration.cpp.o] Error 1
+CMakeFiles/Makefile2:2962: recipe for target 'CMakeFiles/opt_define_reference_frame.dir/all' failed
+make[1]: *** [CMakeFiles/opt_define_reference_frame.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+[ 33%] [32mBuilding CXX object CMakeFiles/opt_calibration_refinement.dir/src/trajectory_registration.cpp.o[0m
+In file included from [01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/src/opt_calibration.cpp:43:0[m[K:
+[01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/include/open_ptrack/opt_calibration/opt_calibration.h:53:51:[m[K [01;31m[Kfatal error: [m[Kcalibration_common/calibration_common.h: No such file or directory
+compilation terminated.
+CMakeFiles/opt_calibration.dir/build.make:62: recipe for target 'CMakeFiles/opt_calibration.dir/src/opt_calibration.cpp.o' failed
+CMakeFiles/Makefile2:547: recipe for target 'CMakeFiles/opt_calibration.dir/all' failed
+make[2]: *** [CMakeFiles/opt_calibration.dir/src/opt_calibration.cpp.o] Error 1
+make[1]: *** [CMakeFiles/opt_calibration.dir/all] Error 2
+[ 40%] [32m[1mLinking CXX executable /home/hri/catkin_ws/devel/.private/opt_calibration/lib/opt_calibration/stereo_publisher[0m
+[ 40%] Built target stereo_publisher
+[ 46%] [32m[1mLinking CXX executable /home/hri/catkin_ws/devel/.private/opt_calibration/lib/opt_calibration/opt_calibration_refinement[0m
+[ 46%] Built target opt_calibration_refinement
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

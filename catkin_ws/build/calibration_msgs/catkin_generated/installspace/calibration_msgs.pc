@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/install
+
+Name: calibration_msgs
+Description: Description of calibration_msgs
+Version: 1.0.0
+Cflags: -I/home/hri/catkin_ws/install/include
+Libs: -L/home/hri/catkin_ws/install/lib -lcalibration_msgs
+Requires: message_runtime sensor_msgs actionlib_msgs calibration_common eigen_conversions

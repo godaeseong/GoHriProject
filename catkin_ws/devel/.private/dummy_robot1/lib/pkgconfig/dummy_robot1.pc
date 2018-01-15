@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/dummy_robot1
+
+Name: dummy_robot1
+Description: Description of dummy_robot1
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/dummy_robot1/lib 
+Requires: 

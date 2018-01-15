@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/speech_acitivity_py/share/speech_acitivity_py/cmake/speech_acitivity_pyConfig-version.cmake

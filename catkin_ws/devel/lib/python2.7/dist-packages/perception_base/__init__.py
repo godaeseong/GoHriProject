@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/perception_base/lib/python2.7/dist-packages/perception_base/__init__.py

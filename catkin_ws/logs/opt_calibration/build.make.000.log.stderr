@@ -1,0 +1,12 @@
+In file included from [01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/src/opt_calibration.cpp:43:0[m[K:
+[01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/include/open_ptrack/opt_calibration/opt_calibration.h:53:51:[m[K [01;31m[Kfatal error: [m[Kcalibration_common/calibration_common.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/opt_define_reference_frame.dir/src/opt_calibration.cpp.o] Error 1
+make[1]: *** [CMakeFiles/opt_define_reference_frame.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/src/opt_calibration.cpp:43:0[m[K:
+[01m[K/home/hri/catkin_ws/src/openptrack/opt_calibration/include/open_ptrack/opt_calibration/opt_calibration.h:53:51:[m[K [01;31m[Kfatal error: [m[Kcalibration_common/calibration_common.h: No such file or directory
+compilation terminated.
+make[2]: *** [CMakeFiles/opt_calibration.dir/src/opt_calibration.cpp.o] Error 1
+make[1]: *** [CMakeFiles/opt_calibration.dir/all] Error 2
+make: *** [all] Error 2

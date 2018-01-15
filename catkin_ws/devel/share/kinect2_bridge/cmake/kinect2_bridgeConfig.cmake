@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/kinect2_bridge/share/kinect2_bridge/cmake/kinect2_bridgeConfig.cmake

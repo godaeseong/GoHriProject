@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/multisensor_calibration/share/multisensor_calibration/cmake/multisensor_calibrationConfig.cmake

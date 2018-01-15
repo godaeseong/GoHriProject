@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/opt_msgs/share/roseus/ros/opt_msgs/msg/Rois.l

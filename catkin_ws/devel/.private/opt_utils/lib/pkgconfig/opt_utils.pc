@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/opt_utils
+
+Name: opt_utils
+Description: Description of opt_utils
+Version: 0.0.1
+Cflags: -I/home/hri/catkin_ws/src/openptrack/opt_utils/include
+Libs: -L/home/hri/catkin_ws/devel/.private/opt_utils/lib -lopt_utils
+Requires: roscpp

@@ -1,0 +1,1 @@
+/home/hri/catkin_ws/devel/.private/dummy_robot1/share/dummy_robot1/cmake/dummy_robot1Config.cmake

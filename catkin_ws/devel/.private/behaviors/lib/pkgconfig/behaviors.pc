@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/behaviors
+
+Name: behaviors
+Description: Description of behaviors
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/behaviors/lib 
+Requires: 

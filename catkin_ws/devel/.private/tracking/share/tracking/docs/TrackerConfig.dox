@@ -1,0 +1,18 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~min_confidence_initialization" : \b [double] Mininum confidence for track initialization min: -10.0, default: 4.0, max: 10.0
+- \b "~max_detection_delay" : \b [double] Maximum delay that a detection message can have in order to be considered for tracking min: 0.0, default: 2.0, max: 3.0
+- \b "~calibration_refinement" : \b [bool] Flag stating if the results of a calibration refinement procedure should be used to correct detection positions min: False, default: False, max: True
+- \b "~gate_distance_probability" : \b [double] The higher is this, the higher motion variance is allowed min: 0.5, default: 0.99, max: 0.999
+- \b "~acceleration_variance" : \b [double] Acceleration variance in people motion model min: 0.1, default: 100.0, max: 1000.0
+- \b "~position_variance_weight" : \b [double] Additional weight for position variance in people motion model min: 1.0, default: 30.0, max: 100.0
+- \b "~detector_likelihood" : \b [bool] Flag stating if detection likelihood should be used in data association min: False, default: True, max: True
+- \b "~detector_weight" : \b [double] Weight of detection likelihood in data association min: -10.0, default: -0.25, max: 0.0
+- \b "~motion_weight" : \b [double] Weight of motion likelihood in data association min: 0.0, default: 0.25, max: 10.0
+- \b "~sec_before_old" : \b [double] Track duration (seconds) after last valid detection min: 0.0, default: 8.0, max: 100.0
+- \b "~sec_before_fake" : \b [double] Seconds within which a track should be validated (otherwise it is discarded) min: 0.0, default: 2.4, max: 10.0
+- \b "~sec_remain_new" : \b [double] Seconds after which a visible track obtain NORMAL status min: 0.0, default: 1.2, max: 10.0
+- \b "~detections_to_validate" : \b [int] Minimum number of detection<->track associations needed for validating a track min: 1, default: 3, max: 20
+

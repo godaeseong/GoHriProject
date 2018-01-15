@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/google_cloud_speech
+
+Name: google_cloud_speech
+Description: Description of google_cloud_speech
+Version: 0.0.0
+Cflags: -I/home/hri/catkin_ws/devel/.private/google_cloud_speech/include
+Libs: -L/home/hri/catkin_ws/devel/.private/google_cloud_speech/lib 
+Requires: 

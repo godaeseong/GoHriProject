@@ -1,0 +1,8 @@
+prefix=/home/hri/catkin_ws/devel/.private/events_multiplexer
+
+Name: events_multiplexer
+Description: Description of events_multiplexer
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hri/catkin_ws/devel/.private/events_multiplexer/lib 
+Requires: 

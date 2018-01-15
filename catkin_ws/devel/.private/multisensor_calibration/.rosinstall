@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hri/catkin_ws/devel/.private/multisensor_calibration/setup.sh
